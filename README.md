@@ -31,3 +31,25 @@ The analysis provided valuable insights into:
 To explore the analysis, open the Jupyter Notebook:
 ```bash
 jupyter notebook Advanced_Sales_and_Customer_Insights_Analysis.ipynb
+```
+## Files
+- **Advanced_Sales_and_Customer_Insights_Analysis.ipynb: The Jupyter Notebook containing the analysis code and visualizations.
+- **Amazon Sale Report.csv
+- **Cloud Warehouse Comparison Chart.csv
+- **P & L March 2021.csv
+- **May-2022.csv
+- **Sale Report.csv
+- **International sale Report.csv
+- **Expense IIGF.csv
+- **README.md: This file.
+
+## Requirements
+- **Python 3
+- **pandas
+- **numpy
+- **matplotlib
+- **seaborn
+- **scikit-learn
+- **jupyter
+
+
